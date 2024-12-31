@@ -1,0 +1,6 @@
+# 2024新版易支付系统源码运营版支持当面付通道轮询免签约支付系统第三方支付免签约支付
+
+别问我在不在？年级轻轻的怎么会不在，24小时在线，为了自己的生活，请你随时叨扰我，欢迎你的叨扰一个爱好编程的穷小子,一个喜欢安安静静思考问题的屌丝，擅长处理各种疑难杂症24小时在线全网最价建设各种网站 | 网站修改 | 网站开发 | 模板开发 | 定制开发 | example.com.example.com.example.com.example.com.源码<br>具体功能以测试站为准<br>因为QQ经常抽风,你们加我我这边收不到信息请复制QQ加我1847727305<br>前台:<br>http://example.com/; 账号13800000000 13800000000<br>后台http://example.com//admin; 账号 admin 123456<br>可以直接测试的接口已对接<br>1、易支付API接口；<br>2、支持设置快捷登录；<br>3、注册开户可设置免费或者收费；<br>4、网站自带测试接口，可以自定义配置对接信息;<br>5、支持设置开启QQ，微信，支付宝，银行卡结算；<br>6、网站自带开发文档、SDK demo<br>7、设置自定义订单名称，时间戳、用户QQ号<br>8、设置关键词屏蔽，可自定义增加关键词或者删除关键词<br>9、后台可查看被拦截的订单记录，商户号，拦截类型，网址和内容<br>10、0906更新首页UI，具体可查看演示站<br>通道轮询<br>可将设置好的通道加入轮询；<br>轮询方法可设置为顺序依次；<br>可设置参与轮询通道权重，设置后自动随机轮询<br>支付接口<br>支持支付宝当面付，支持自动回调与H5唤醒支付；<br>支持支付宝原生手机电脑网站支付接口；<br>支持对接微信官方支付，QQ官方支付接口；<br>支持对接-码支付，哆啦宝支付，易支付，京东支付，小微支付，PAYJS，掌易收聚合支付等；<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/ZTm9z" style="color: red;">https://mega-file.org/ZTm9z</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
